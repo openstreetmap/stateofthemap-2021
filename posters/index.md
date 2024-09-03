@@ -68,11 +68,7 @@ Hereby I express my special thanks to Adam Rousell for his insights and help in 
 
 <h3 id="nguyen">Minh Nguyen: "Mapping POIs in Santa Clara County, California (Silicon Valley)"</h3>
 
-I’ve uploaded a poster to Nextcloud named “Mapping POIs in Santa Clara County”. The full title is “Mapping points of interest in Santa Clara County, California (Silicon Valley)”. The poster has plenty of context; all I’d add is the following:
-
 Join one of the largest POI imports in OpenStreetMap history and help us achieve complete coverage. Help us show that volunteers can make a better map than proprietary automated methods! [https://maproulette.org/browse/projects/42122](https://maproulette.org/browse/projects/42122)
-
-My OSM user name is Minh Nguyen.
 
 [![](Minh_Nguyen_Mapping POIs in Santa Clara County-preview.png)](https://files.osmfoundation.org/s/CkGg3peXFTHPqXo)
 
